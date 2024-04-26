@@ -21,3 +21,15 @@
 
 - id: doi:10.7554/eLife.32822
   image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+
+- id: arxiv:2305.17144
+  type: paper
+  publisher: Arxiv Tech Report 2023
+  image: images/2305.17144.png
+  description: "<img src=\"https://img.shields.io/github/stars/OpenGVLab/GITM\" style=\"margin:5px ;vertical-align: middle\">"
+  buttons:
+    - type: paper
+      link: https://arxiv.org/abs/2305.17144
+    - type: source
+      text: Code
+      link: https://github.com/OpenGVLab/GITM
