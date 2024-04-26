@@ -245,6 +245,50 @@
   image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
   plugin: sources.py
   file: sources.yaml
+- id: arxiv:2112.04163
+  title: Assessing a Single Image in Reference-Guided Image Synthesis
+  authors:
+  - Jiayi Guo
+  - Chaoqun Du
+  - Jiangshan Wang
+  - Huijuan Huang
+  - Pengfei Wan
+  - Gao Huang
+  publisher: AAAI 2022
+  date: '2021-12-09'
+  link: https://arxiv.org/abs/2112.04163
+  type: paper
+  image: images/2112.04163.png
+  buttons:
+  - type: paper
+    link: https://arxiv.org/abs/2112.04163
+  plugin: sources.py
+  file: sources.yaml
+- id: arxiv:2111.14556
+  title: On the Integration of Self-Attention and Convolution
+  authors:
+  - Xuran Pan
+  - Chunjiang Ge
+  - Rui Lu
+  - Shiji Song
+  - Guanfu Chen
+  - Zeyi Huang
+  - Gao Huang
+  publisher: CVPR 2022
+  date: '2022-03-15'
+  link: https://arxiv.org/abs/2111.14556
+  type: paper
+  image: images/2111.14556.png
+  description: '<img src="https://img.shields.io/github/stars/LeapLabTHU/ACmix" style="margin:5px
+    ;vertical-align: middle">'
+  buttons:
+  - type: paper
+    link: https://arxiv.org/abs/2111.14556
+  - type: source
+    text: Code
+    link: https://github.com/LeapLabTHU/ACmix
+  plugin: sources.py
+  file: sources.yaml
 - id: arxiv:1608.06993
   title: Densely Connected Convolutional Networks
   authors:
