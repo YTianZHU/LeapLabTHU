@@ -16,7 +16,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 <!-- {% include list.html component="card" data="projects" filters="group: featured" %} -->
 
-{% include citation.html lookup="Ghost in the Minecraft: Generally Capable Agents for Open-World Environments via Large Language Models with Text-based Knowledge and Memory" style="rich" %}
+{% include citation.html lookup="Densely Connected Convolutional Networks" style="rich" %}
 
 {% include section.html %}
 
