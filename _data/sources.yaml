@@ -22,14 +22,26 @@
 - id: doi:10.7554/eLife.32822
   image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
 
-- id: arxiv:2305.17144
+# - id: arxiv:2305.17144
+#   type: paper
+#   publisher: Arxiv Tech Report 2023
+#   image: images/2305.17144.png
+#   description: "<img src=\"https://img.shields.io/github/stars/OpenGVLab/GITM\" style=\"margin:5px ;vertical-align: middle\">"
+#   buttons:
+#     - type: paper
+#       link: https://arxiv.org/abs/2305.17144
+#     - type: source
+#       text: Code
+#       link: https://github.com/OpenGVLab/GITM
+
+- id: arxiv:1608.06993
   type: paper
-  publisher: Arxiv Tech Report 2023
-  image: images/2305.17144.png
-  description: "<img src=\"https://img.shields.io/github/stars/OpenGVLab/GITM\" style=\"margin:5px ;vertical-align: middle\">"
+  publisher: CVPR 2017 (Best Paper Award)
+  image: images/1608.06993.jpg
+  description: "<img src=\"https://img.shields.io/github/stars/liuzhuang13/DenseNet\" style=\"margin:5px ;vertical-align: middle\">"
   buttons:
     - type: paper
-      link: https://arxiv.org/abs/2305.17144
+      link: https://arxiv.org/abs/1608.06993
     - type: source
       text: Code
-      link: https://github.com/OpenGVLab/GITM
+      link: https://github.com/liuzhuang13/DenseNet
