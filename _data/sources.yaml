@@ -23,6 +23,26 @@
   image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
 
 
+- id: arxiv:2112.04163
+  type: paper
+  publisher: AAAI 2022
+  image: images/2112.04163.png
+  buttons:
+    - type: paper
+      link: https://arxiv.org/abs/2112.04163
+
+- id: arxiv:2111.14556
+  type: paper
+  publisher: CVPR 2022
+  image: images/2111.14556.png
+  description: "<img src=\"https://img.shields.io/github/stars/LeapLabTHU/ACmix\" style=\"margin:5px ;vertical-align: middle\">"
+  buttons:
+    - type: paper
+      link: https://arxiv.org/abs/2111.14556
+    - type: source
+      text: Code
+      link: https://github.com/LeapLabTHU/ACmix
+
 - id: arxiv:1608.06993
   type: paper
   publisher: CVPR 2017 (Best Paper Award)

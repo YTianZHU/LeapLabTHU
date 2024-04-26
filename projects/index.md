@@ -12,10 +12,13 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 {% include section.html %}
 
-## Featured
+## 2022
+{% include citation.html lookup="Assessing a Single Image in Reference-Guided Image Synthesis" style="rich" %}
 
-<!-- {% include list.html component="card" data="projects" filters="group: featured" %} -->
+## 2021
+{% include citation.html lookup="On the Integration of Self-Attention and Convolution" style="rich" %}
 
+## 2017
 {% include citation.html lookup="Densely Connected Convolutional Networks" style="rich" %}
 
 {% include section.html %}
