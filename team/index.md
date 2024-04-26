@@ -21,4 +21,5 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {% include list.html data="members" component="portrait" filters="role: student" style="small" %}
 
 
-{% include grid.html style="square" content=content %}
+{% include section.html %}
+
