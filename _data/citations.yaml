@@ -245,35 +245,25 @@
   image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
   plugin: sources.py
   file: sources.yaml
-- id: arxiv:2305.17144
-  title: 'Ghost in the Minecraft: Generally Capable Agents for Open-World Environments
-    via Large Language Models with Text-based Knowledge and Memory'
+- id: arxiv:1608.06993
+  title: Densely Connected Convolutional Networks
   authors:
-  - Xizhou Zhu
-  - Yuntao Chen
-  - Hao Tian
-  - Chenxin Tao
-  - Weijie Su
-  - Chenyu Yang
   - Gao Huang
-  - Bin Li
-  - Lewei Lu
-  - Xiaogang Wang
-  - Yu Qiao
-  - Zhaoxiang Zhang
-  - Jifeng Dai
-  publisher: Arxiv Tech Report 2023
-  date: '2023-06-02'
-  link: https://arxiv.org/abs/2305.17144
+  - Zhuang Liu
+  - Laurens van der Maaten
+  - Kilian Q. Weinberger
+  publisher: CVPR 2017 (Best Paper Award)
+  date: '2018-01-30'
+  link: https://arxiv.org/abs/1608.06993
   type: paper
-  image: images/2305.17144.png
-  description: '<img src="https://img.shields.io/github/stars/OpenGVLab/GITM" style="margin:5px
-    ;vertical-align: middle">'
+  image: images/1608.06993.jpg
+  description: '<img src="https://img.shields.io/github/stars/liuzhuang13/DenseNet"
+    style="margin:5px ;vertical-align: middle">'
   buttons:
   - type: paper
-    link: https://arxiv.org/abs/2305.17144
+    link: https://arxiv.org/abs/1608.06993
   - type: source
     text: Code
-    link: https://github.com/OpenGVLab/GITM
+    link: https://github.com/liuzhuang13/DenseNet
   plugin: sources.py
   file: sources.yaml
