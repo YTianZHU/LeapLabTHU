@@ -21,5 +21,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 ## 2017
 {% include citation.html lookup="Densely Connected Convolutional Networks" style="rich" %}
 
+{% include citation.html lookup="Learning Efficient Convolutional Networks through Network Slimming" style="rich" %}
+
 {% include section.html %}
 

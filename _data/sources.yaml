@@ -43,14 +43,15 @@
       text: Code
       link: https://github.com/LeapLabTHU/ACmix
 
-- id: arxiv:1608.06993
+- id: arxiv:1708.06519
   type: paper
-  publisher: CVPR 2017 (Best Paper Award)
-  image: images/1608.06993.jpg
-  description: "<img src=\"https://img.shields.io/github/stars/liuzhuang13/DenseNet\" style=\"margin:5px ;vertical-align: middle\">"
+  publisher: ICCV 2017
+  image: images/1708.06519.jpg
+  description: "<img src=\"https://img.shields.io/github/stars/liuzhuang13/slimming\" style=\"margin:5px ;vertical-align: middle\">"
   buttons:
     - type: paper
-      link: https://arxiv.org/abs/1608.06993
+      link: https://arxiv.org/abs/1708.06519
     - type: source
       text: Code
-      link: https://github.com/liuzhuang13/DenseNet
+      link: https://github.com/liuzhuang13/slimming
+

@@ -46,7 +46,12 @@
 #   tags:
 #     - software
 
-- title: Foundation Model for Visual Perception
+- title: Backbone Network For Vision
   group: featured
   image: images/1608.06993.jpg
   link: "research/backbone"
+
+- title: Network Pruning
+  group: featured
+  image: images/1708.06519.jpg
+  link: "research/pruning"
