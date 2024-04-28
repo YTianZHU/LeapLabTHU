@@ -58,7 +58,7 @@
 
 {% capture text %}
 
-<div style="text-align: center;">Join our team!</div>
+<div style="text-align: center;">Meet our team members and join our team!</div>
 
 {%
   include button.html
