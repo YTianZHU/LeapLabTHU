@@ -1,8 +1,7 @@
 ---
 ---
 
-# YTianZHUDESCRIPTION=An engaging 1-3 sentence description of your lab.'s Website
-
+# LEAPLAB: Learning and Perception Lab
 
 
 {% include section.html %}
@@ -11,12 +10,12 @@
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our research mainly focuses on computer vision and reinforcement learning。
 
 {%
   include button.html
   link="research"
-  text="See our publications"
+  text="See our research"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -26,7 +25,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/1608.06993.jpg.jpg"
   link="research"
   title="Our Research"
   text=text
@@ -34,12 +33,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our publications in recent years.
 
 {%
   include button.html
   link="projects"
-  text="Browse our projects"
+  text="Browse our publications"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -49,7 +48,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/3d.jpg"
   link="projects"
   title="Our Projects"
   flip=true
@@ -59,7 +58,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Join our team!
 
 {%
   include button.html
@@ -74,8 +73,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/teacher.jpg"
   link="team"
-  title="Our Team"
+  title="Our Team Members"
   text=text
 %}

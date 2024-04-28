@@ -1,5 +1,5 @@
 # site properties and page defaults
-title: LeapLab of Tsinghua University
+title: LEAPLAB of Tsinghua University
 subtitle: 
 description: 
 header: images/background.jpg
@@ -8,12 +8,9 @@ proofer: false
 
 # site social media and other links
 links:
-  email: contact@YTianZHUDESCRIPTION=An engaging 1-3 sentence description of your lab..com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
-  github: YTianZHUDESCRIPTION=An engaging 1-3 sentence description of your lab.
-  twitter: YTianZHUDESCRIPTION=An engaging 1-3 sentence description of your lab.
-  youtube: YTianZHUDESCRIPTION=An engaging 1-3 sentence description of your lab.
+  email: leaplab.thu@gmail.com
+  github: https://github.com/LeapLabTHU
+  twitter: https://twitter.com/LeapLabTHU
 
 ### jekyll settings
 
