@@ -10,7 +10,7 @@
 
 {% capture text %}
 
-<div style="text-align: center;">Our research mainly focuses on computer vision and reinforcement learning.
+<div style="text-align: center;">Our research mainly focuses on computer vision and reinforcement learning.</div>
 
 {%
   include button.html
@@ -33,7 +33,7 @@
 
 {% capture text %}
 
-<div style="text-align: center;">Our publications in recent years.
+<div style="text-align: center;">Our publications in recent years.</div>
 
 {%
   include button.html
@@ -58,7 +58,7 @@
 
 {% capture text %}
 
-<div style="text-align: center;">Join our team!
+<div style="text-align: center;">Join our team!</div>
 
 {%
   include button.html
