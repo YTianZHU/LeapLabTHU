@@ -289,6 +289,28 @@
     link: https://github.com/LeapLabTHU/ACmix
   plugin: sources.py
   file: sources.yaml
+- id: arxiv:1608.06993
+  title: Densely Connected Convolutional Networks
+  authors:
+  - Gao Huang
+  - Zhuang Liu
+  - Laurens van der Maaten
+  - Kilian Q. Weinberger
+  publisher: CVPR 2017 (Best Paper Award)
+  date: '2018-01-30'
+  link: https://arxiv.org/abs/1608.06993
+  type: paper
+  image: images/1608.06993.jpg
+  description: '<img src="https://img.shields.io/github/stars/liuzhuang13/DenseNet"
+    style="margin:5px ;vertical-align: middle">'
+  buttons:
+  - type: paper
+    link: https://arxiv.org/abs/1608.06993
+  - type: source
+    text: Code
+    link: https://github.com/liuzhuang13/DenseNet
+  plugin: sources.py
+  file: sources.yaml
 - id: arxiv:1708.06519
   title: Learning Efficient Convolutional Networks through Network Slimming
   authors:
