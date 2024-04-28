@@ -9,8 +9,8 @@ proofer: false
 # site social media and other links
 links:
   email: leaplab.thu@gmail.com
-  github: https://github.com/LeapLabTHU
-  twitter: https://twitter.com/LeapLabTHU
+  github: LeapLabTHU
+  twitter: LeapLabTHU
 
 ### jekyll settings
 
